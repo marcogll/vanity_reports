@@ -1,7 +1,3 @@
-Claro, aquí tienes el reporte completo para la sucursal **VANITY Pinos**, siguiendo la estructura y el modelo que definimos.
-
----
-
 ### **Análisis de Encuestas de Satisfacción - VANITY Pinos**
 
 #### **Resumen Ejecutivo**
