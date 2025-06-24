@@ -1,7 +1,3 @@
-¡Excelente! Este dataset de la sucursal **VANITY Carranza** es muy rico en información. He aplicado el mismo modelo de análisis para presentarte un reporte completo y accionable.
-
----
-
 ### **Análisis de Encuestas de Satisfacción - VANITY Carranza**
 
 #### **Resumen Ejecutivo**
