@@ -3,121 +3,98 @@
 ---
 
 ## 1. Contexto y Fecha de Implementación  
-El **1 de marzo de 2025** Fresha puso en marcha una serie de modificaciones en su estructura de precios y servicios, que incluyen desde la introducción de suscripciones obligatorias hasta ajustes en las comisiones y tarifas de comunicación. Estas novedades han generado reacciones mixtas en la comunidad de profesionales de belleza y bienestar.
+El **1 de agosto de 2025** Fresha pondrá en marcha una serie de modificaciones en su estructura de precios y servicios, alineándose con los estándares de la industria y la evolución de los costes.
 
 - **Detalles oficiales de la actualización**:  
-  https://www.fresha.com/pricing-update?_gl=1*gjwbcn*_gcl_au*NDc5MDYwOTYuMTc1MDcxNzYyMC4xNDIxNzc0ODE2LjE3NTA3MTc2MzkuMTc1MDcxNzYzOQ..*_ga*MTE5NDczOTM1LjE3NTA3MTc2MTQ.*_ga_SMQNG7NE8C*czE3NTE0MTI5MzAkbzExJGcxJHQxNzUxNDEyOTQ3JGo0MyRsMCRoMA..
+  [Política de actualización de precios](https://partners.fresha.com/subscription-wizard/opt-in/policy_update)
 
 ---
 
-## 2. Modelos de Suscripción y Planes  
+## 2. Modelo de Suscripción y Plan Mensual  
 
-| Plan              | Precio                           | Quién aplica                                | Incluye                                                         |
-|-------------------|----------------------------------|----------------------------------------------|-----------------------------------------------------------------|
-| **Independiente** | Gratis                            | Profesionales autónomos (1 miembro)          | Calendario único, 20 SMS/mes, soporte por email                  |
-| **Equipo**        | £9.95 / miembro / mes (tras prueba de 14 días) | Negocios con ≥ 2 miembros                    | Calendarios múltiples, 20 SMS + 50 emails de marketing/mes, 24/7 chat y phone support |
-| **Enterprise**    | Cotización personalizada          | Cadenas y múltiples sedes                    | Todo lo del Plan Equipo + funciones avanzadas y acceso por roles |
+| Plan                        | Tu plan actual                              | Nuevo plan mensual por miembro           |
+|-----------------------------|----------------------------------------------|------------------------------------------|
+| **Suscripción estándar**    | No disponible                                | **127,95 MXN**  
+*(descontado de 159,95 MXN)* |
 
 - **Más info en la página de precios**:  
-  https://www.fresha.com/pricing?_gl=1*1thm5zj*_gcl_au*NDc5MDYwOTYuMTc1MDcxNzYyMC4xNDIxNzc0ODE2LjE3NTA3MTc2MzkuMTc1MDcxNzYzOQ..*_ga*MTE5NDczOTM1LjE3NTA3MTc2MTQ.*_ga_SMQNG7NE8C*czE3NTE0MTI5MzAkbzExJGcxJHQxNzUxNDEyOTQ3JGo0MyRsMCRoMA..
+  [Ver precios Fresha](https://www.fresha.com/pricing)
 
-> **Nota:** El plan independiente **sigue siendo gratuito**, pero a partir de marzo de 2025 los negocios con más de un miembro deben suscribirse al Plan Equipo para mantener visibilidad y funcionamiento normal en la plataforma.
-
----
-
-## 3. Comisiones del Marketplace  
-
-- **Clientes nuevos**: Comisión única del **20 %** sobre el valor del servicio para clientes que lo descubren vía Fresha Marketplace, con **tarifa mínima de £4.00** por cliente.  
-- **Clientes recurrentes**: Sin comisión alguna, gratis siempre.  
-
-- **Detalles de Marketplace**:  
-  https://www.fresha.com/marketplace
+> **Nota:** Debes activar tu suscripción antes del **1 de agosto de 2025** para canjear el 20 % de descuento y mantener el acceso ininterrumpido.
 
 ---
 
-## 4. Tarifas de Procesamiento de Pagos  
+## 3. SMS y Emails de Marketing  
 
-| Método               | Tarifa                               |
-|----------------------|--------------------------------------|
-| **Pagos online**     | 1.40 % + £0.25 por transacción       |
-| **Pago presencial**  | 1.19 % + £0.20 + £0.07 (autorización)|
-| **Manual (entry)**   | 2.20 % + £0.20                       |
-| **Terminal**         | £295.00 por dispositivo              |
-
-- **Más en “Fresha Payments”**:  
-  https://www.fresha.com/payments
+| Concepto                        | Tu plan actual       | Nuevo plan mensual              |
+|---------------------------------|----------------------|---------------------------------|
+| **SMS gratuitos**               | —                    | 300 SMS totales  
+*(20 por miembro)* |
+| **Emails de marketing gratuitos** | —                  | 750 emails totales  
+*(50 por miembro)* |
 
 ---
 
-## 5. Comunicación y Marketing  
+## 4. Soporte al Cliente  
 
-- **SMS automáticos**: 20 gratuitos al mes, luego £0.05 por mensaje.  
-- **Emails de marketing**: 50 gratuitos al mes, luego £0.02 por email.  
-- **Textos de marketing adicionales**: £0.08 por envío.  
-
-- **Configuración de mensajería**:  
-  https://www.fresha.com/messaging
+| Canal               | Tu plan actual | Nuevo plan mensual        |
+|---------------------|----------------|---------------------------|
+| **Email**           | Incluido       | Incluido                  |
+| **Teléfono y chat** | —              | **24 h / 7 días**         |
 
 ---
 
-## 6. Nuevos Servicios Obligatorios  
+## 5. Módulo de Comisiones y Pagos Integrados  
 
-1. **Visibilidad en Marketplace**: Ahora, para que tu calendario sea visible a través de Fresha Marketplace, debes estar en el Plan Equipo si tienes más de un miembro.  
-2. **Team Pay (nómina integrable)**: Fresha ofrece una funcionalidad para el cálculo automático de nómina, aunque puede no cubrir todos los aspectos fiscales locales y obliga a suscribirse a un servicio adicional.
+| Concepto                                                           | Tu plan actual | Nuevo plan mensual por miembro |
+|--------------------------------------------------------------------|----------------|--------------------------------|
+| Comisiones, nómina, fichaje digital y procesos de pago **integrados** | No incluidos   | **Incluidos**<br>*(sin coste adicional)* |
 
-- **Más sobre Team Pay**:  
-  https://www.fresha.com/team-pay
-
----
-
-## 7. Reacciones de la Comunidad  
-
-- Usuarios en foros han manifestado que, de no aceptar las nuevas tarifas, pierden acceso al calendario y notificaciones, lo que los ha llevado a evaluar plataformas alternativas como Square Appointments o Vagaro.  
-- Quejas sobre “no hay opción de seguir gratis”: el cambio obligatorio se percibe como “o pagas o quedas fuera”.
+> Si no activas tu suscripción a tiempo, perderás acceso a tu workspace tras el 1 agosto 2025.
 
 ---
 
-## 8. Comparación con la Política Anterior  
+## 6. Comparación con la Política Anterior  
 
-| Concepto             | Antes (hasta feb 2025)     | Ahora (desde mar 2025)               |
-|----------------------|---------------------------|---------------------------------------|
-| Suscripción Equipo   | Opcional (solo para >2)   | **Obligatoria** para >1 miembro       |
-| Comisión Clientes    | 20 % (sin tarifa mínima)  | 20 % + **tarifa mínima de £4.00**     |
-| Team Pay             | Función extra opcional    | Función “impulsada” y más visible     |
-| Comunicación         | Precios claros            | Se mantiene, con mensajería “pay-as-you-go” |
-
----
-
-## 9. Implicaciones y Recomendaciones  
-
-1. **Revisa tu modelo de negocio**: Valora el ROI de la suscripción de £9.95/miembro vs. posibles ingresos.  
-2. **Optimiza canales propios**: Potencia tu sitio web y redes sociales para atraer clientes recurrentes y evitar la comisión del 20 %.  
-3. **Evalúa alternativas**: Considera plataformas competidoras si las nuevas tarifas impactan tu rentabilidad.  
-4. **Negocia con Fresha**: Revisa si tu contrato permite excepciones o condiciones regionales.  
-5. **Controla costos de comunicación**: Ajusta tus campañas de SMS y email para no exceder los límites gratuitos.
+| Elemento                       | Antes (hasta jul 2025) | Ahora (desde ago 2025)            |
+|--------------------------------|------------------------|------------------------------------|
+| Suscripción estándar           | No disponible          | Obligatoria (127,95 MXN/miembro)   |
+| SMS gratuitos                  | —                      | 300 / mes                          |
+| Emails de marketing gratuitos  | —                      | 750 / mes                          |
+| Soporte telefónico y chat      | —                      | 24 h / 7 d                          |
+| Comisiones y pagos integrados  | No incluidos           | Incluidos                         |
 
 ---
 
-## 10. Próximos Pasos para Usuarios Actuales  
+## 7. Proyección de Costos de Suscripción por Sucursal y Total
 
-- **Aceptar la renovación** al nuevo plan antes del 1 de marzo de 2025 para evitar interrupciones.  
-- **Exportar datos** de clientes y calendario si planeas migrar a otra plataforma.  
-- **Formación interna** sobre configuración de comisiones, Team Pay y gestión de suscripciones.
+| Sucursal     | Socias | Costo mensual (127,95 MXN × socia) | Costo anual (×12)       |
+|--------------|--------|------------------------------------|-------------------------|
+| **Carranza** | 6      | 767,70 MXN                         | 9 212,40 MXN            |
+| **Pinos**    | 5      | 639,75 MXN                         | 7 677,00 MXN            |
+| **Cima**     | 4      | 511,80 MXN                         | 6 141,60 MXN            |
+| **Total Grupo** | 15     | 1 919,25 MXN                       | 23 031,00 MXN           |
+
+> Estos montos incluyen ya el 20 % de descuento aplicado a la tarifa estándar.
 
 ---
 
-## 11. Proyección de Costos de Suscripción por Sucursal y Total
+## 8. Implicaciones y Recomendaciones  
 
-| Sucursal   | Socias | Costo mensual (£9.95/miembro) | Costo anual (12×mensual) |
-|------------|--------|-------------------------------|--------------------------|
-| **Carranza** | 6      | £59.70                        | £716.40                  |
-| **Pinos**    | 5      | £49.75                        | £597.00                  |
-| **Cima**     | 4      | £39.80                        | £477.60                  |
-| **Total Grupo** | 15     | £149.25                       | £1,791.00                |
+1. **Activa tu suscripción** antes del 1 agosto 2025 para conservar tu cuenta y aprovechar el descuento.  
+2. **Revisa tu presupuesto mensual y anual** por sucursal según la proyección anterior.  
+3. **Optimiza tu uso de SMS y emails** para no exceder los límites gratuitos.  
+4. **Capacita a tu equipo** en las nuevas funciones de soporte y pagos integrados.  
 
-> Estos valores reflejan únicamente el gasto en suscripciones al Plan Equipo según el número de socias por sucursal. No incluyen posibles comisiones ni costos de procesamiento de pagos.
+---
+
+## 9. Próximos Pasos para Usuarios Actuales  
+
+- Activar la suscripción en el **workspace → Facturación** antes del **1 agosto 2025**.  
+- Exportar datos de clientes y calendario si planeas migrar en un futuro.  
+- Consultar las [preguntas frecuentes](https://www.fresha.com/blog/frequently-asked-questions) o contactar al soporte 24/7.  
 
 ---
 
 **Conclusión**  
-Fresha mantiene su promesa de “sin suscripción” para profesionales independientes, pero endurece su modelo para equipos mayores a un miembro, convirtiendo en **obligatoria** la suscripción al Plan Equipo y reforzando la comisión del 20 % con tarifa mínima. Se recomienda una evaluación exhaustiva de costos (incluida la proyección mensual y anual por sucursal), optimización de canales propios y considerar alternativas antes de comprometerse con las nuevas condiciones.  
+La nueva política de Fresha refuerza el valor de la plataforma con herramientas incluidas y soporte ampliado, manteniendo condiciones muy competitivas a **127,95 MXN/miembro** (con descuento). Asegúrate de activar tu plan para evitar interrupciones y aprovechar al máximo las mejoras.  
